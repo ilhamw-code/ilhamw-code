@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I build high quality Android and iOS mobile apps with Flutter.</p>
+<p align="left">I build high quality Android with Flutter.</p>
 
 ###
 
